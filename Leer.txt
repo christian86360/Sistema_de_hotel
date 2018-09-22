@@ -1,0 +1,5 @@
+para correr el programa tienes que agregar la base en phpMyAdmin y agregarle trabajadores
+para poder haceder al login 
+y al programa agrega todos las bibliotecas para que no te cause error
+
+@ LugoMarroquin Christian
